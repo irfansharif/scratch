@@ -3,6 +3,6 @@ Random setup text added!
 The quick brown fox jumps over the lazy dog.
 This is a test configuration file.
 System initialized with random parameters.
-UUID: a7f9e2c1-4d8b-11ec-81d3-0242ac130003
+UUID: A7F9E2C1-4D8B-11EC-81D3-0242AC130003
 Timestamp: 2024-01-15T14:23:45Z
 Status: Ready for deployment
